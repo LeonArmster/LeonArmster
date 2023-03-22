@@ -17,5 +17,5 @@ Analista de dados na empresa Telefônica
 
 #### Você também me encontra em:
 <a href="www.linkedin.com/in/leonardo-armster">
-  <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
