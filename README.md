@@ -7,10 +7,10 @@ Analista de dados na empresa Telefônica
 - Atualmente mais focado:
 
 <div display = "inline">
-<img width="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img width="60" height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  &nbsp;&nbsp;<img width="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="60" height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;&nbsp;
   
 </div>
 
