@@ -1,16 +1,21 @@
-### Hi there 👋
+### Oi, meu nome é Leonardo
+Analista de dados na empresa Telefônica
 
-<!--
-**LeonArmster/LeonArmster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 **Analista de dados** na empresa [Telefônica](https://www.telefonica.com.br/)
+- 👨🏻‍🎓Formado em Analise e Desenvolvimento de Sistemas
+- 👨🏻‍🏫Especalizando em Business Inteligence e Machine Learning
+- Atualmente mais focado:
 
-Here are some ideas to get you started:
+<div display = "inline">
+<img width="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width="60" height = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Você também me encontra em:
+<a href="www.linkedin.com/in/leonardo-souza-067037236">
+  <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
